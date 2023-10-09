@@ -1,3 +1,5 @@
 # Remove all pdf images
 *
+!pdfimages/
+!uploads/
 !.gitignore
